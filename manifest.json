@@ -1,0 +1,20 @@
+{
+  "name": "Abdul Basit Quran",
+  "short_name": "Abdul Basit",
+  "description": "The Qur'an recited by Sheikh Abdul Basit Abdul Samad, with Arabic text, translation, offline listening and historical recordings.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101614",
+  "theme_color": "#101614",
+  "lang": "en",
+  "dir": "auto",
+  "categories": ["books", "education", "lifestyle", "music"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
